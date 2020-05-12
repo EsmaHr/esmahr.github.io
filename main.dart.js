@@ -40359,7 +40359,7 @@ t=new Z.uK(new B.vK(new G.LN(!0,!0,!0,t,s),C.tU,C.o,!1,p,!0,C.qi,!1,p,r,C.a3,C.w
 s=P.cI(0,0,1)
 r=F.bg(a,!1).a.b*0.1
 q=u.E
-q=B.xK(T.EM(H.b([new K.w8(this.z5(),p),new T.d4(p,F.bg(a,!1).a.b*0.1,p,p),new K.x3(T.EM(H.b([L.lu("Hi there! My name is",p,A.eK(p,p,C.ao,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p),p,2),L.lu("Esma\nHarmanc\u0131",p,A.eK(p,p,C.j,p,p,p,p,p,p,p,p,p,p,C.bp,p,p,!0,p,p,p,p,p,p),p,5),new T.d4(p,10,p,p),L.lu("Computer Engineer Student\nLoving Dart & Flutter",!0,A.eK(p,p,C.G,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p),p,1.5)],q),C.fW,C.bG,C.an),p),new T.d4(p,F.bg(a,!1).a.b*0.2,p,p),new K.yk(p)],q),C.aK,C.bG,C.an),p)
+q=B.xK(T.EM(H.b([new K.w8(this.z5(),p),new T.d4(p,F.bg(a,!1).a.b*0.1,p,p),new K.x3(T.EM(H.b([L.lu("Hi there! My name is",p,A.eK(p,p,C.ao,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p),p,2),L.lu("Esma\nHarmanc\u0131",p,A.eK(p,p,C.j,p,p,p,p,p,p,p,p,p,p,C.bp,p,p,!0,p,p,p,p,p,p),p,5),new T.d4(p,10,p,p),L.lu("Computer Engineering Student\nInterested in Dart & Flutter",!0,A.eK(p,p,C.G,p,p,p,p,p,p,p,p,p,p,p,p,p,!0,p,p,p,p,p,p),p,1.5)],q),C.fW,C.bG,C.an),p),new T.d4(p,F.bg(a,!1).a.b*0.2,p,p),new K.yk(p)],q),C.aK,C.bG,C.an),p)
 return B.xK(new M.pm(new E.mO(0,C.k,new P.a0(1/0,56),p),new E.y7(!0,new G.mF(new V.aG(r,r,r,r),q,C.ax,s,p,p),p),t,C.k,p),p)}}
 K.K0.prototype={
 $0:function(){C.ag.k7(window,"mailto:smhrmnc@gmail.com","Esma Harmanc\u0131")},
